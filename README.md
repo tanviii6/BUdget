@@ -1,5 +1,6 @@
 # BUdget
 Project: BUdget
+
 Description: Budgeting Website (BUdget) developed for the BU Spark Campus Solutions Challenge (October 2024 - November 2024).
 
 Key Features:
